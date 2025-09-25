@@ -62,9 +62,10 @@ Open Google_lens_ditto.ipynb
 Upload an image
 <img width="452" height="736" alt="image" src="https://github.com/user-attachments/assets/6ed40454-1c02-4456-a35d-7601775f9759" />
 
-Run the cells → Get description + search insights
 
-<img width="452" height="736" alt="image" src="https://github.com/user-attachments/assets/337956c7-f160-4646-b7a0-9ddc8e9cc1f9" />
+
+Run the cells → Get description + search insights
+<img width="608" height="256" alt="image" src="https://github.com/user-attachments/assets/e0c59986-7fca-4ac1-9b42-b3e3dd415082" />
 <img width="904" height="498" alt="image" src="https://github.com/user-attachments/assets/5d90a217-7301-448d-b162-4bbded4ef284" />
 <img width="1186" height="381" alt="image" src="https://github.com/user-attachments/assets/187a9635-dda9-4e89-b38b-9ed79ca7a7f4" />
 <img width="395" height="142" alt="image" src="https://github.com/user-attachments/assets/a59835f8-74ed-4888-99b2-f028bc091741" />
