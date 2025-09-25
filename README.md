@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Gemini-API-orange?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" />
+
 </p>
 
 ---
