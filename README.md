@@ -1,6 +1,6 @@
 *Google Lens Ditto – Powered by Gemini API*
 
-This project is a Google Lens–like clone built using the Gemini API, designed to process images, extract insights, and provide contextual search results. It replicates the core idea of “point, capture, and understand” by combining computer vision with LLM-powered reasoning.
+This project is a Google Lens–like clone built using the Gemini API, designed to process images, extract insights, and provide contextual search results. It replicates the core idea of “point, capture, and understand” by combining computer vision with LLM-powered reasoning, this is created to serve as an addon for fashion aps.
 
 🚀 Features
 
@@ -24,12 +24,7 @@ Flask / FastAPI (optional) – for exposing as a backend service
 
 Streamlit (optional) – for quick UI prototyping
 
-📂 Project Structure
-Google_Lens_Ditto/
-│── Google_lens_ditto.ipynb   # Main notebook (development + testing)
-│── requirements.txt          # Dependencies
-│── README.md                 # Project documentation
-│── /assets                   # Sample input images & outputs
+<img width="729" height="160" alt="image" src="https://github.com/user-attachments/assets/53b5567a-91b7-44b2-95d9-60a6c8fada5a" />
 
 🔧 Installation
 
@@ -53,15 +48,6 @@ Create a .env file and add:
 GEMINI_API_KEY=your_api_key_here
 
 
-![Python](https://img.shields.io/badge/Python-3.9-blue) 
-![Gemini API](https://img.shields.io/badge/Gemini-API-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-purple)
-
-<p align="center">
-  <img src="assets/banner.png" width="600"/>
-</p>
-
 
 ▶️ Usage
 Run from Jupyter Notebook
@@ -69,25 +55,21 @@ Run from Jupyter Notebook
 Open Google_lens_ditto.ipynb
 
 Upload an image
+<img width="654" height="322" alt="image" src="https://github.com/user-attachments/assets/9bfdb1a7-9de2-4c4d-a206-1a9f39b5fba7" />
+
 
 Run the cells → Get description + search insights
+<img width="609" height="909" alt="image" src="https://github.com/user-attachments/assets/82f412be-52ec-4cc7-914c-e34965eea9bc" />
+<img width="904" height="498" alt="image" src="https://github.com/user-attachments/assets/5d90a217-7301-448d-b162-4bbded4ef284" />
+<img width="1186" height="381" alt="image" src="https://github.com/user-attachments/assets/187a9635-dda9-4e89-b38b-9ed79ca7a7f4" />
+<img width="395" height="142" alt="image" src="https://github.com/user-attachments/assets/a59835f8-74ed-4888-99b2-f028bc091741" />
+
+
 
 Run as Script
 python app.py
 
 
-(If you convert the notebook into a Flask/Streamlit app)
-
-📸 Example
-
-Input: 🖼️ A photo of a wristwatch
-Output (Gemini API):
-
-Description: "A luxury wristwatch with black leather strap and silver dial"
-
-Entities extracted: watch, leather strap, luxury
-
-Suggested search: “Best luxury watches with black leather strap”
 
 📊 Future Enhancements
 
@@ -104,3 +86,9 @@ Suggested search: “Best luxury watches with black leather strap”
 
 👨‍💻 Cavin Chandran
 💡 Built as part of BAEon Internship (Gemini API projects)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue) 
+![Gemini API](https://img.shields.io/badge/Gemini-API-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
