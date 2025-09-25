@@ -1,4 +1,4 @@
-📸 Google Lens Ditto – Powered by Gemini API
+*Google Lens Ditto – Powered by Gemini API*
 
 This project is a Google Lens–like clone built using the Gemini API, designed to process images, extract insights, and provide contextual search results. It replicates the core idea of “point, capture, and understand” by combining computer vision with LLM-powered reasoning.
 
@@ -35,7 +35,7 @@ Google_Lens_Ditto/
 
 Clone the repo
 
-git clone https://github.com/your-username/google-lens-ditto.git
+git clone https://github.com/Nivac05/Google-lens-ditto.git
 cd google-lens-ditto
 
 
@@ -51,6 +51,17 @@ Get an API key from Google AI Studio
 Create a .env file and add:
 
 GEMINI_API_KEY=your_api_key_here
+
+
+![Python](https://img.shields.io/badge/Python-3.9-blue) 
+![Gemini API](https://img.shields.io/badge/Gemini-API-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
+<p align="center">
+  <img src="assets/banner.png" width="600"/>
+</p>
+
 
 ▶️ Usage
 Run from Jupyter Notebook
