@@ -1,4 +1,4 @@
-*Google Lens Ditto – Powered by Gemini API*
+## *Google Lens Ditto – Powered by Gemini API*
 
 This project is a Google Lens–like clone built using the Gemini API, designed to process images, extract insights, and provide contextual search results. It replicates the core idea of “point, capture, and understand” by combining computer vision with LLM-powered reasoning, this is created to serve as an addon for fashion aps.
 
