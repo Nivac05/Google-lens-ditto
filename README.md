@@ -126,10 +126,6 @@ python app.py
 
 ---
 
-<p align="center">
-   Made with ❤️ using Gemini API  
-</p>
-
 
 
 
