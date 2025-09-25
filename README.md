@@ -20,9 +20,6 @@ Gemini API (for vision + text processing)
 
 Python (main driver)
 
-Flask / FastAPI (optional) – for exposing as a backend service
-
-Streamlit (optional) – for quick UI prototyping
 
 ## 📂 Project Structure
 
@@ -34,7 +31,7 @@ Google_Lens_Ditto/
 └── /assets                   # Sample input images & outputs
 ```
 
-🔧 Installation
+# Installation
 
 Clone the repo
 
