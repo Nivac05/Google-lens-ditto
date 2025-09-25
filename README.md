@@ -24,7 +24,15 @@ Flask / FastAPI (optional) – for exposing as a backend service
 
 Streamlit (optional) – for quick UI prototyping
 
-<img width="729" height="160" alt="image" src="https://github.com/user-attachments/assets/53b5567a-91b7-44b2-95d9-60a6c8fada5a" />
+## 📂 Project Structure
+
+```bash
+Google_Lens_Ditto/
+├── Google_lens_ditto.ipynb   # Main notebook (development + testing)
+├── requirements.txt          # Dependencies
+├── README.md                 # Project documentation
+└── /assets                   # Sample input images & outputs
+```
 
 🔧 Installation
 
@@ -55,10 +63,12 @@ Run from Jupyter Notebook
 Open Google_lens_ditto.ipynb
 
 Upload an image
+
 <img width="654" height="322" alt="image" src="https://github.com/user-attachments/assets/9bfdb1a7-9de2-4c4d-a206-1a9f39b5fba7" />
 
 
 Run the cells → Get description + search insights
+
 <img width="609" height="909" alt="image" src="https://github.com/user-attachments/assets/82f412be-52ec-4cc7-914c-e34965eea9bc" />
 <img width="904" height="498" alt="image" src="https://github.com/user-attachments/assets/5d90a217-7301-448d-b162-4bbded4ef284" />
 <img width="1186" height="381" alt="image" src="https://github.com/user-attachments/assets/187a9635-dda9-4e89-b38b-9ed79ca7a7f4" />
